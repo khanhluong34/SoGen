@@ -1,5 +1,26 @@
-# Getting Started with Create React App
+# SoGen (Solution Generator)
+SoGen is a web application developed using React.js that enables teachers to create exercises, build step-to-step solutions and generate instructions for students to follow. With SoGen, teahchers can easily define exercises and their respective solution steps, along with sample data sets for practice. The system provides an interact learning experience for students, allowing them to access exercises, follow instructions, and evaluate their solutions.
 
+## Prerequisites 
+
+- Node.js (v18.15.0)
+- npm (v9.6.6)
+
+## Getting Started 
+
+To set up and run the SoGen project locally, follow these steps
+
+### 1. Clone the repository: 
+
+```bash
+https://github.com/khanhluong34/SoGen.git
+```
+### 2. Navigate to the project directory then install the dependencies: 
+
+```bash
+cd SoGen 
+npm install
+```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
