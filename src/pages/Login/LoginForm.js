@@ -25,8 +25,8 @@ const LoginForm = () => {
             <div className="forget">
               <label>
                 <input type="checkbox" />
-                Remember Me
-                <a href="">Forget Password</a>
+                Remember Me  
+                <a style={{ marginLeft: '70px' }} href="">Forget Password</a>
               </label>
             </div>
 

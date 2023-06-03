@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
 import '../../assets/css/App.css'
+import '../../assets/css/landing_page.css'
 
 import BackgroundImage from '../../assets/images/bg_landingpage.png'
 
